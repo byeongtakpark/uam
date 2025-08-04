@@ -15,5 +15,7 @@ The model is validated through a Seoul City case study. Results show that:
 
 This framework provides actionable insights for UAM fleet operators and urban mobility planners making data-driven decisions on scalable UAM deployment.
 This repository provides the experimental code and data for reproducing the results of the ITSC 2025 paper:
+
 **"Optimal Fleet Sizing for On-demand Urban Air Mobility Services using Queueing-Theoretical Approach"**  
 *Byeong Tak Park, KT Corporation*
+
