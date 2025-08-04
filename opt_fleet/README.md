@@ -1,4 +1,11 @@
 # Optimal Fleet Sizing for On-demand Urban Air Mobility Services
+
+This repository provides the experimental code and data for reproducing the results of the 2025 IEEE International Conference on Intelligent Transportation Systems (ITSC 2025) paper:
+
+**"Optimal Fleet Sizing for On-demand Urban Air Mobility Services using Queueing-Theoretical Approach"**  
+*Byeong Tak Park, KT Corporation*
+
+
 ## Overview
 
 Urban Air Mobility (UAM) offers a promising solution to urban traffic congestion by enabling on-demand air-based transportation. However, the stochastic nature of passenger demand introduces significant challenges in maintaining high service availability—especially vehicle availability at vertiports.
@@ -14,8 +21,9 @@ The model is validated through a Seoul City case study. Results show that:
 - Incorporating moderate to high compensation schemes increases the optimal fleet size (to 48 and 55 vehicles, respectively) but reduces profitability
 
 This framework provides actionable insights for UAM fleet operators and urban mobility planners making data-driven decisions on scalable UAM deployment.
-This repository provides the experimental code and data for reproducing the results of the ITSC 2025 paper:
 
-**"Optimal Fleet Sizing for On-demand Urban Air Mobility Services using Queueing-Theoretical Approach"**  
-*Byeong Tak Park, KT Corporation*
+## Case Study: Vertiport Network in Seoul
 
+The simulation and analysis are based on a case study of Seoul, Republic of Korea. The figure below illustrates the candidate vertiport locations used in the study.
+
+![10 vertiports in Seoul, Republic of Korea](fig_vpt_locations.jpg)
