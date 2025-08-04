@@ -1,4 +1,4 @@
-# Optimal Fleet Sizing for On-demand Urban Air Mobility Services
+# Optimal Fleet Sizing for On-demand Urban Air Mobility Services 
 
 This repository provides the experimental code and data for reproducing the results of the 2025 IEEE International Conference on Intelligent Transportation Systems (ITSC 2025) paper:
 
@@ -28,6 +28,7 @@ The simulation and analysis are based on a case study of Seoul metropolitan area
 The figure below illustrates the candidate vertiport locations used in the study. 
 
 ![10 vertiports in Seoul, Republic of Korea](fig_vpt_locations.jpg)
+
 
 
 
