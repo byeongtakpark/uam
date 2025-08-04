@@ -22,12 +22,13 @@ The model is validated through a Seoul City case study. Results show that:
 
 This framework provides actionable insights for UAM fleet operators and urban mobility planners making data-driven decisions on scalable UAM deployment.
 
-## Optimal Fleet Sizing: A Case Study of Seoul, Republic of Korea
+## Optimal Fleet Sizing: A Case Study of Seoul metropolitan area, Republic of Korea
 
-The simulation and analysis are based on a case study of Seoul, Republic of Korea, presented in [**Optimal Vertiport Locations for Air Taxi Services in Metropolitan Areas**](https://link.springer.com/article/10.1007/s42405-024-00807-4) (*Kim, S. H., Park, B. T., Chae, M., Shim, S., & Kim, H., 2025*).
+The simulation and analysis are based on a case study of Seoul metropolitan area, Republic of Korea, presented in [**Optimal Vertiport Locations for Air Taxi Services in Metropolitan Areas**](https://link.springer.com/article/10.1007/s42405-024-00807-4) (*Kim, S. H., Park, B. T., Chae, M., Shim, S., & Kim, H., 2025*).
 The figure below illustrates the candidate vertiport locations used in the study. 
 
 ![10 vertiports in Seoul, Republic of Korea](fig_vpt_locations.jpg)
+
 
 
 
