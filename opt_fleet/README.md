@@ -5,7 +5,7 @@ This repository provides the experimental code and data for reproducing the resu
 **"Optimal Fleet Sizing for On-demand Urban Air Mobility Services using Queueing-Theoretical Approach"**  
 *Byeong Tak Park, KT Corporation*
 
-
+---
 ## Overview
 
 Urban Air Mobility (UAM) offers a promising solution to urban traffic congestion by enabling on-demand air-based transportation. However, the stochastic nature of passenger demand introduces significant challenges in maintaining high service availability—especially vehicle availability at vertiports.
@@ -22,6 +22,7 @@ The model is validated through a Seoul City case study. Results show that:
 
 This framework provides actionable insights for UAM fleet operators and urban mobility planners making data-driven decisions on scalable UAM deployment.
 
+---
 ## A case study of Seoul metropolitan area, Republic of Korea
 
 The simulation and analysis are based on a case study of Seoul metropolitan area, Republic of Korea, presented in [**Optimal Vertiport Locations for Air Taxi Services in Metropolitan Areas**](https://link.springer.com/article/10.1007/s42405-024-00807-4) (*Kim, S. H., Park, B. T., Chae, M., Shim, S., & Kim, H., 2025*).
@@ -41,16 +42,14 @@ The figure below illustrates the candidate vertiport locations used in the study
 
 Results show that: 
 - A fleet of 40 vehicles maximizes profit under baseline assumption.
+   <img src="result/fig_obj_function.png" alt="Objective function" width="600"/>
 - At the optimal fleet size, all vertiports achieved a minimum service availability level between 0.62 and 0.72.
+  <img src="result/fig_veh_availability.png" alt="Service Availabilities of 10 vertiports" width="600"/>
 - Incorporating compensation schemes increases the optimal fleet sizes but reduces profitability
+  <img src="result/fig_compen_scheme.png" alt="Sensitivity Analysis of Compensation Schemes" width="600"/>
 
 
- <img src="result/fig_obj_function.png" alt="Objective function" width="600"/>
-
- <img src="result/fig_veh_availability.png" alt="Service Availabilities of 10 vertiports" width="600"/>
-
- <img src="result/fig_compen_scheme.png" alt="Sensitivity Analysis of Compensation Schemes" width="600"/>
-
+---
 ## Citation
 ```bibtex
 @inproceedings{park2025uam,
@@ -59,6 +58,7 @@ Results show that:
   booktitle = {Proc. 28th IEEE International Conference on Intelligent Transportation Systems (ITSC)},
   year      = {2025},
 }```
+
 
 
 
