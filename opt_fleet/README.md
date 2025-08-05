@@ -43,7 +43,10 @@ Results show that:
 - A fleet of 40 vehicles maximizes profit under baseline assumption.
 - At the optimal fleet size, all vertiports achieved a minimum service availability level between 0.62 and 0.72.
 - Incorporating compensation schemes increases the optimal fleet sizes but reduces profitability
-  
+
+
+
+ <img src="fig_vpt_locations_for_readme.jpg" alt="Vertiport Network" width="400"/>
 ![Objective function](result/fig_obj_function.png)
 
 ![Service Availabilities of 10 vertiports](result/fig_veh_availability.png)
@@ -58,5 +61,6 @@ Results show that:
   booktitle = {Proc. 28th IEEE International Conference on Intelligent Transportation Systems (ITSC)},
   year      = {2025},
 }```
+
 
 
