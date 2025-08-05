@@ -37,7 +37,7 @@ The figure below illustrates the candidate vertiport locations used in the study
 - Jukjeon Station
 - Pangyo Station
 
-![10 vertiports in Seoul, Republic of Korea](fig_vpt_locations.jpg)
+![10 vertiports in Seoul, Republic of Korea](figure/fig_vpt_locations.jpg)
 
 Results show that: 
 - A fleet of 40 vehicles maximizes profit under baseline assumption.
@@ -57,4 +57,5 @@ Results show that:
   booktitle = {Proc. 28th IEEE International Conference on Intelligent Transportation Systems (ITSC)},
   year      = {2025},
 }
+
 
