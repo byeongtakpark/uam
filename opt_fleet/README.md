@@ -56,12 +56,4 @@ Results show that:
   title     = {Optimal Fleet Sizing for On-demand Urban Air Mobility Services using Queueing-Theoretical Approach},
   booktitle = {Proc. 28th IEEE International Conference on Intelligent Transportation Systems (ITSC)},
   year      = {2025},
-}```
-
-
-
-
-
-
-
-
+}
