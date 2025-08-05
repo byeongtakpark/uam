@@ -46,7 +46,7 @@ Results show that:
 
 
 
- <img src="fig_vpt_locations_for_readme.jpg" alt="Vertiport Network" width="400"/>
+ <img src="fig_vpt_locations.jpg" alt="Vertiport Network" width="400"/>
 ![Objective function](result/fig_obj_function.png)
 
 ![Service Availabilities of 10 vertiports](result/fig_veh_availability.png)
@@ -61,6 +61,7 @@ Results show that:
   booktitle = {Proc. 28th IEEE International Conference on Intelligent Transportation Systems (ITSC)},
   year      = {2025},
 }```
+
 
 
 
