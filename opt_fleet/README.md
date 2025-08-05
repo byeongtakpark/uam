@@ -45,11 +45,11 @@ Results show that:
 - Incorporating compensation schemes increases the optimal fleet sizes but reduces profitability
 
 
- <img src="result/fig_obj_function.png" alt="Objective function" width="400"/>
+ <img src="result/fig_obj_function.png" alt="Objective function" width="600"/>
 
- <img src="result/fig_veh_availability.png" alt="Service Availabilities of 10 vertiports" width="400"/>
+ <img src="result/fig_veh_availability.png" alt="Service Availabilities of 10 vertiports" width="600"/>
 
- <img src="result/fig_compen_scheme.png" alt="Sensitivity Analysis of Compensation Schemes" width="400"/>
+ <img src="result/fig_compen_scheme.png" alt="Sensitivity Analysis of Compensation Schemes" width="600"/>
 
 ## Citation
 ```bibtex
@@ -59,6 +59,7 @@ Results show that:
   booktitle = {Proc. 28th IEEE International Conference on Intelligent Transportation Systems (ITSC)},
   year      = {2025},
 }```
+
 
 
 
