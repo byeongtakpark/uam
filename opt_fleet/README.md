@@ -40,9 +40,10 @@ The figure below illustrates the candidate vertiport locations used in the study
 - Jukjeon Station
 - Pangyo Station
 
-![Objective function](fig_obj_function.png)
+![Objective function](result/fig_obj_function.png)
 
 ![Service Availabilities of 10 vertiports](result/fig_veh_availability.png)
+
 
 
 
