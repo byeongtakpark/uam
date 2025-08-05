@@ -29,6 +29,16 @@ The figure below illustrates the candidate vertiport locations used in the study
 
 ![10 vertiports in Seoul, Republic of Korea](fig_vpt_locations.jpg)
 
+- Namsan
+- Gimpo Airport
+- Yeonsinnae Station
+- Gangnam Bus Terminal
+- Jamsil Sport Complex
+- Gwangmyeong City Hall
+- Anyang City Hall
+- East Suwon
+- Jukjeon Station
+- Pangyo Station
 
 
 
