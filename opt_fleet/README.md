@@ -27,7 +27,7 @@ This framework provides actionable insights for UAM fleet operators and urban mo
 The simulation and analysis are based on a case study of Seoul metropolitan area, Republic of Korea, presented in [**Optimal Vertiport Locations for Air Taxi Services in Metropolitan Areas**](https://link.springer.com/article/10.1007/s42405-024-00807-4) (*Kim, S. H., Park, B. T., Chae, M., Shim, S., & Kim, H., 2025*).
 The figure below illustrates the candidate vertiport locations used in the study. 
 
-![10 vertiports in Seoul, Republic of Korea](fig_vpt_locations.jpg)
+![10 vertiports in Seoul, Republic of Korea](result/fig_vpt_locations.jpg)
 
 - Namsan
 - Gimpo Airport
@@ -42,7 +42,8 @@ The figure below illustrates the candidate vertiport locations used in the study
 
 ![Objective function](fig_obj_function.png)
 
-![Service Availabilities of 10 vertiports](fig_veh_availability.png)
+![Service Availabilities of 10 vertiports](result/fig_veh_availability.png)
+
 
 
 
