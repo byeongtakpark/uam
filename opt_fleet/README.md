@@ -25,10 +25,7 @@ This framework provides actionable insights for UAM fleet operators and urban mo
 ## A case study of Seoul metropolitan area, Republic of Korea
 
 The simulation and analysis are based on a case study of Seoul metropolitan area, Republic of Korea, presented in [**Optimal Vertiport Locations for Air Taxi Services in Metropolitan Areas**](https://link.springer.com/article/10.1007/s42405-024-00807-4) (*Kim, S. H., Park, B. T., Chae, M., Shim, S., & Kim, H., 2025*).
-The figure below illustrates the candidate vertiport locations used in the study. 
-
-![10 vertiports in Seoul, Republic of Korea](fig_vpt_locations.jpg)
-
+The figure below illustrates the candidate vertiport locations used in the study consisting of:
 - Namsan
 - Gimpo Airport
 - Yeonsinnae Station
@@ -40,14 +37,18 @@ The figure below illustrates the candidate vertiport locations used in the study
 - Jukjeon Station
 - Pangyo Station
 
+![10 vertiports in Seoul, Republic of Korea](fig_vpt_locations.jpg)
+
 Results show that: 
 - A fleet of 40 vehicles maximizes profit under baseline assumption.
 - At the optimal fleet size, all vertiports achieved a minimum service availability level between 0.62 and 0.72.
+- Incorporating compensation schemes increases the optimal fleet sizes but reduces profitability
   
 ![Objective function](result/fig_obj_function.png)
 
 ![Service Availabilities of 10 vertiports](result/fig_veh_availability.png)
 
+![Sensitivity Analysis of Compensation Schemes](result/fig_compen_scheme.png)
 
 ## Citation
 ```bibtex
@@ -57,4 +58,5 @@ Results show that:
   booktitle = {Proc. 28th IEEE International Conference on Intelligent Transportation Systems (ITSC)},
   year      = {2025},
 }```
+
 
