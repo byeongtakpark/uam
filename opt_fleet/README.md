@@ -5,7 +5,6 @@ This repository provides the experimental code and data for reproducing the resu
 **"Optimal Fleet Sizing for On-demand Urban Air Mobility Services using Queueing-Theoretical Approach"**  
 *Byeong Tak Park, KT Corporation*
 
----
 ## Overview
 
 Urban Air Mobility (UAM) offers a promising solution to urban traffic congestion by enabling on-demand air-based transportation. However, the stochastic nature of passenger demand introduces significant challenges in maintaining high service availability—especially vehicle availability at vertiports.
@@ -22,7 +21,7 @@ The model is validated through a Seoul City case study. Results show that:
 
 This framework provides actionable insights for UAM fleet operators and urban mobility planners making data-driven decisions on scalable UAM deployment.
 
----
+
 ## A case study of Seoul metropolitan area, Republic of Korea
 
 The simulation and analysis are based on a case study of Seoul metropolitan area, Republic of Korea, presented in [**Optimal Vertiport Locations for Air Taxi Services in Metropolitan Areas**](https://link.springer.com/article/10.1007/s42405-024-00807-4) (*Kim, S. H., Park, B. T., Chae, M., Shim, S., & Kim, H., 2025*).
@@ -58,6 +57,7 @@ Results show that:
   booktitle = {Proc. 28th IEEE International Conference on Intelligent Transportation Systems (ITSC)},
   year      = {2025},
 }```
+
 
 
 
