@@ -7,13 +7,13 @@ This repository provides the experimental code and data for reproducing the resu
 
 ## Overview
 
-Urban Air Mobility (UAM) offers a promising solution to urban traffic congestion by enabling on-demand air-based transportation. However, the stochastic nature of passenger demand introduces significant challenges in maintaining high service availability—especially vehicle availability at vertiports.
+Urban Air Mobility (UAM) offers a promising solution to urban traffic congestion by enabling on-demand aerial transportation. However, the stochastic nature of passenger demand introduces significant challenges in maintaining high service availability—especially vehicle availability at vertiports.
 
-This project develops a closed Jackson network model with passenger loss to capture the dynamics of an on-demand UAM system. We formulate a **profit-maximization problem** that determines the **optimal fleet size** while satisfying a minimum service availability threshold. The model explicitly accounts for demand uncertainty and considers both **proactive fleet provisioning** and **reactive passenger compensation** strategies.
+A closed Jackson network model with passenger loss is developed to capture the dynamics of an on-demand UAM system. A **profit-maximization problem** is presented that determines the **optimal fleet size** while satisfying a minimum service availability. The model explicitly accounts for demand uncertainty and considers both **proactive fleet provisioning** and **reactive passenger compensation** strategies.
 
 An iterative exact solution search algorithm is implemented to identify:
-- The **minimum fleet size** required to meet availability targets
-- The **optimal fleet size** that maximizes profit under various compensation scenarios
+- The **minimum fleet size** required to meet minimum service availability for all vertiports
+- The **optimal fleet size** that maximizes operator's profit under various compensation strategies
 
 The model is validated through a Seoul City case study. Results show that:
 - A fleet of 40 vehicles maximizes profit under baseline assumptions
@@ -57,5 +57,6 @@ Results show that:
   booktitle = {Proc. 28th IEEE International Conference on Intelligent Transportation Systems (ITSC)},
   year      = {2025},
 }
+
 
 
